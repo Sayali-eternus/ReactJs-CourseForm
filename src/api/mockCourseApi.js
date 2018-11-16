@@ -103,6 +103,5 @@ class CourseApi {
     });
   }
 }
-
-
+ 
 export default CourseApi;
