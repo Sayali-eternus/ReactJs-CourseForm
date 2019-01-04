@@ -10,5 +10,5 @@ class AboutPage extends React.Component{
             </div>
         );
     }
-}
+}  
 export default AboutPage;
